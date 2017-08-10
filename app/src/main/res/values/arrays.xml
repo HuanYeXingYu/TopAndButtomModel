@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="url">
+        <item>http://www.nanjing.gov.cn/xxgk/bm/sjjgswglj/201611/W020161128565687398922.jpg</item>
+        <item>http://www.nanjing.gov.cn/xxgk/bm/sjjgswglj/201708/W020170802311507337383.jpg</item>
+        <item>http://www.nanjing.gov.cn/xxgk/bm/sjjgswglj/201707/W020170724330616487539.jpg</item>
+        <item>http://www.nanjing.gov.cn/xxgk/bm/sjjgswglj/201706/W020170622376304460287.jpg</item>
+        <item>http://www.nanjing.gov.cn/xxgk/bm/sjjgswglj/201707/W020170703393808176098.jpg</item>
+    </array>
+
+
+    <array name="title">
+        <item>公司承建的公共机构能源管理系统通过查收</item>
+        <item>加强协调配合　共推绿建发展</item>
+        <item>旗帜鲜明讲政治　持之以恒改作风</item>
+        <item>环湖健步走　绿色低碳行</item>
+        <item>推广节能产品 打造绿色机关</item>
+    </array>
+
+</resources>
